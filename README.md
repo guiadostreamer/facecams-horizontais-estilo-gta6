@@ -7,6 +7,22 @@ Visual neon em tons de rosa, roxo, azul e laranja, com cenas tropicais, paisagen
 > **AVISO DE DIREITOS AUTORAIS E LICENÇA**  
 > Este repositório é público para facilitar o download, mas os arquivos **não estão em domínio público** e **não possuem licença para redistribuição**. O uso é gratuito somente nas condições descritas neste documento e no arquivo [`LICENSE.txt`](LICENSE.txt). **Não é uma licença MIT.**
 
+## Vídeo tutorial — Como usar as facecams horizontais no OBS Studio
+
+Não sabe como instalar e configurar os overlays horizontais? **Assista ao tutorial do Guia do Streamer**, com orientações para utilizar as versões **estáticas (PNG)** e **animadas (WEBM)** no OBS Studio.
+
+<p align="center">
+  <a href="https://youtu.be/MEi8eBnyqtQ" title="Assistir ao tutorial de facecams horizontais no OBS Studio">
+    <img src="assets/capa-tutorial-facecams-horizontais.png" alt="Tutorial Guia do Streamer — Facecams horizontais estilo GTA 6 para OBS Studio" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Clique na capa para assistir ao tutorial completo no YouTube.</strong>
+</p>
+
+**Link direto:** https://youtu.be/MEi8eBnyqtQ
+
 ## Prévia dos modelos estáticos
 
 As imagens abaixo são **os próprios arquivos originais** deste repositório; clique em PNG para visualizar ou baixar o modelo.
@@ -87,6 +103,8 @@ facecams-horizontais-estilo-gta6/
 ├── LICENSE.txt
 ├── CHANGELOG.md
 ├── .gitignore
+├── assets/
+│   └── capa-tutorial-facecams-horizontais.png
 ├── estaticas/
 │   ├── Facecam Estatica 1.png
 │   ├── Facecam Estatica 2.png
